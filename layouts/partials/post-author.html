@@ -1,0 +1,19 @@
+
+
+{{ $author := lower .Params.author }}
+{{ $url := path.Join "/author/" $author | urlize }}
+{{ $image := path.Join "/images/" (print $author ".jpg") | urlize }}
+
+<ul class="author-list">
+    <li class="author-list-item">
+        <div class="author-card">
+            <!-- <div class="author-profile-image">{{ $image }}</div>  -->
+            <div class="author-info">
+                <div class="author-info">
+                    <h2>{{ .Param "author" }}</h2>
+                </div>
+            </div>
+        </div>
+        <a href={{ $url }} class="author-avatar author-profile-image"><img src="{{ $image }}"  alt="{{- $author -}}"  width="40" height="40"></a>
+    </li>
+</ul>

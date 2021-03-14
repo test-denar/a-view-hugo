@@ -1,0 +1,111 @@
+baseurl         = "https://a-view.org"
+title           = "Trips & Places"
+# theme           = "gohugo-theme-ananke"
+theme           = "hugo-casper3"
+languageCode    = "en-US"
+disqusShortname = "a-view"
+paginate        = 12
+SectionPagesMenu = "main"
+mainSections = ["post"]
+canonifyurls    = true
+publishDir      = ""
+relativeURLs    = true
+
+[params]
+  description    = "Stories and Observations"
+  cover_image = "/images/2018/06/2013-12-27-16.41.42.jpg"
+  copyright   = "© 2019"
+  # logo       = "/images/netrip.jpg"
+  metaDescription = ""
+  googleAnalytics = ""
+  customCSS = []
+  RSSLink = ""
+  # author = "Lewis"   # this will serve as the default author for posts
+  authorAvatar = "img/ghost-icon.png"
+  authorLocation = "Seattle, WA"
+  authorWebsite = "https://lewislevin.com"
+  # authorDescription = "One of the riders"
+  pageNotFoundTitle = "404 - Page not found"
+
+[taxonomies]
+  tag = "tags"
+  category = "categories"
+  author = "author"
+
+[permalinks]
+  post = "/post/:slug/"
+
+# [[menu.main]]
+#   name = "Authors"
+#   url = "/author/"
+#   # weight = -600
+
+[[menu.main]]
+   name = "..."
+   url = "/extras/more-trips"
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.extensions]
+      definitionList = true
+      footnote = true
+      linkify = true
+      strikethrough = true
+      table = true
+      taskList = true
+      typographer = true
+    [markup.goldmark.parser]
+      attribute = true
+      autoHeadingID = true
+      autoHeadingIDType = "github"
+    [markup.goldmark.renderer]
+      hardWraps = false
+      unsafe = true
+      xhtml = false
+
+# twitterName = "faketryghost"
+# fbName = "fakeghost"
+# githubName = "eueung"
+# linkedinName = "eueung"
+# mediumName = ""
+#logo = "hugo-logo.png"
+# orgName = "EM"
+# orgWebsite = "https://www.telematika.org"
+# orgDescription = "Here is a description placeholder for your org"
+# showSupport = true
+
+
+# [[menu.main]]
+#   name = "Categories"
+#   url = "/categories/"
+#   weight = 300
+
+# [[menu.main]]
+#   name = "Amsterdam Expats"
+#   url = "/amsterdam_expats/"
+#   weight = 100
+
+# [[menu.main]]
+#   name = "Bike Across America"
+#   url = "/bike_across_america/"
+#   weight = 100
+
+# [[menu.main]]
+#   name = "Florida Coast"
+#   url = "/florida_coast/"
+#   weight = 100
+
+# [[menu.main]]
+#   name = "New England Streams"
+#   url = "/new_england_streams/"
+#   weight = 100
+
+# [[menu.main]]
+#   name = "RV Home"
+#   url = "/rv_home/"
+#   weight = 100
+
+# [[menu.main]]
+#   name = "External"
+#   url = "https://google.com/"
+#   weight = 95
