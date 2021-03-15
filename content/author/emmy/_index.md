@@ -1,5 +1,5 @@
 +++
 title = "Emmy Neilson"
-feature_image = "/images/emmy.jpg"
-author_image = "/images/emmy.jpg"
+feature_image = "/images/emmy-mtn.jpg"
+author_image = "/images/emmy-joni.jpg"
 +++
