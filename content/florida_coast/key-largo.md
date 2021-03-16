@@ -13,9 +13,9 @@ title = "Key Largo"
 
 The ride from Homestead to Key Largo begins on the causeway supporting US 1—the only way to the Keys. This is a black, asphalt strip with a wide and safe enough shoulder for us to ride on. But, it was long and hot with no places to stop until you reach Key Largo.
 
-There greeted us Chef Joe’s foodtruck and a more welcoming stop there never was.
+There Chef Joe’s foodtruck greeted us and a more welcoming stop there never was.
 
-Not sure the giant spiny lobster you see above was on Key Largo or further along our journey, but if the lobster fits, wear it. They don’t really get this big, but tourists from all around (don’t) come to see it. I’ve proposed a similar attraction using a _real_ lobster with giant claws for the outer islands of Maine, but I should be glad no one has ever adopted the proposal.
+Not sure the giant spiny lobster you see above was on Key Largo or further along our journey, but if the lobster fits, wear it. They don’t really get this big, but tourists from all around (don’t) come to see it. I’ve proposed a similar attraction using a _real_ lobster with giant claws for the outer islands of Maine, but no one has ever adopted my proposal.
 
 We continued on to our first stop at the [Coconut Palm Inn](https://www.coconutpalminn.com). This quiet, unassuming resort had eight feet of beach frontage, a very warm pool, and nice lounging spots near the water. A place like this is really quite a relief from the invasive poshness of beachfront hotels on the mainland coast.
 

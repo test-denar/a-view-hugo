@@ -11,7 +11,7 @@ title = "Duck Key"
 +++
 
 
-On the way to Duck Key, we stopped at the world famous Diving Museum. One couple assembled a vast collection of antique diving gear and then added enough modern equipment to bring us (alive) to the present. Here, Emmy practices with an old fashioned diving helmet:
+On the way to Duck Key, we stopped at the world famous History of Diving Museum. One couple assembled a vast collection of antique diving gear and then added enough modern equipment to bring us (alive) to the present. Here, Emmy practices with an old fashioned diving helmet:
 
 {{< figure src="/images/2020/06/emmy_dives.jpg" >}}
 
