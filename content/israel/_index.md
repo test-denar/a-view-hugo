@@ -7,5 +7,5 @@ feature_image = "/images/israel-cover.png"
 ---
 ## Follow this link to the blog--a bit of visually jarring transition...
 
->[Israel Trip](https://www.lewislevin.com/israel/)
+> <a href="https://www.lewislevin.com/israel/" target="_blank">Israel Trip</a>
 ---
