@@ -8,7 +8,6 @@ paginate        = 12
 SectionPagesMenu = "main"
 mainSections = ["post"]
 canonifyurls    = true
-publishDir      = ""
 relativeURLs    = true
 
 [params]
