@@ -1,4 +1,4 @@
-baseurl         = "https://a-view.org"
+baseurl         = "https://a-view.org/"
 title           = "Trips & Places"
 # theme           = "gohugo-theme-ananke"
 theme           = "hugo-casper3"
