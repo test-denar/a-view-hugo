@@ -1,6 +1,7 @@
 +++
 type = "menu"
-title = "..."
+title = "Guide Menu"
+hidden = true
 +++
 
 <p>   </p>

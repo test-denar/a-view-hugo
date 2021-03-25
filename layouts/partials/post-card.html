@@ -24,19 +24,15 @@
                     <h2 class="post-card-title">{{ .context.Title }}</h2>
                 </header>
     
-                <section class="post-card-excerpt">
-                    <p>{{ .context.Summary }}</p>
-                </section>
+                {{ if ne .context.Kind "section" }}
+                    <section class="post-card-excerpt">
+                        <p>{{ .context.Summary }}</p>
+                    </section>
+                {{ end }}
     
             </a>
 
-            {{ $author := .context.Param "author"}}
-            {{/*  $authors := $.Site.Taxonomies.author */}}
-            {{/* $authormap := index $authors $author */}}
-            {{/* $image := index (index .Site.Params.author ($author)) "author_image" */}}
-            {{/* $image := .Site.author.Data.author_image */}}
-            {{/* $title :=  index (index .Site.Params.author ($author) ) "title"  */}}
-            {{/* $title := $authormap.title */}}
+    {{ $author := .context.Param "author"}}
 
     {{if $author}}
         {{ $url := path.Join "/author/" $author | urlize }}
