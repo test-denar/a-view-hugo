@@ -3,7 +3,7 @@ type = "menu"
 title = "..."
 +++
 
-<br>
+<p>   </p>
 <center><i>Choose a trip</i></center>
 
 |      |

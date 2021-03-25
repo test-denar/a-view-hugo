@@ -40,8 +40,9 @@ relativeURLs    = true
 #   # weight = -600
 
 [[menu.main]]
-   name = "..."
-   url = "/extras/more-trips"
+   name = "|||"
+   url = "/more-trips"
+   weight = -100
 
 [markup]
   [markup.goldmark]
