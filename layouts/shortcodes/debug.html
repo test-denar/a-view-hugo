@@ -1,0 +1,7 @@
+
+    
+     {{ $styles := resources.Get "scss/main.scss" | resources.ExecuteAsTemplate "style.main.scss" . | toCSS | minify | fingerprint }} 
+
+     <p> {{ $styles.ResourceType }} </p>
+    
+
