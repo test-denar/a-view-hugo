@@ -17,7 +17,7 @@ Unfortunately, it was too dark in the wax museum for photos.&#160; But, it was v
 </p>
 
 <p align="left">
-  <img style="background-image: none; border-right-width: 0px; padding-left: 0px; padding-right: 0px; display: inline; border-top-width: 0px; border-bottom-width: 0px; border-left-width: 0px; padding-top: 0px" title="DSC02501" border="0" alt="DSC02501" src="/images/2012/07/DSC02501.jpg" width="244" height="163" />
+  <img style="background-image: none; border-right-width: 0px; padding-left: 0px; padding-right: 0px; display: inline; border-top-width: 0px; border-bottom-width: 0px; border-left-width: 0px; padding-top: 0px" title="DSC02501" border="0" alt="DSC02501" src="/images/2012/07/DSC02501.jpg"  />
 </p>
 
 Iceland is a very Lutheran nation with plenty of tolerance.&#160; Ninety percent of Icelanders believe that they cannot deny the existence of hidden people who also inhabit Iceland. More children are born out of wedlock, as a percentage of the population, in Iceland than in any other country in Europe.&#160; And their parents and grandparents dote over them.
