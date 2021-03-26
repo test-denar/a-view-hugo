@@ -1,6 +1,15 @@
-public
-.vscode
-.vscode/settings.json
-.vscode/
+# Hugo folders to ignore
+public/
+/node_modules/
+**/resources/   # for resources in themes
+
+# Visual Studio Code
+.vscode/    # project metadata
+.history/   # local history
+
 .DS_Store
+
+# other miscellaneous build and project directories
 .*/
+
+
