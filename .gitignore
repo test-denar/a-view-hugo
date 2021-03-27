@@ -1,7 +1,7 @@
 # Hugo folders to ignore
-public/
+public/**
 /node_modules/
-**/resources/   # for resources in themes
+resources/_gen/**
 
 # Visual Studio Code
 .vscode/    # project metadata

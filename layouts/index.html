@@ -31,9 +31,9 @@
     <div class="inner posts">
         <div class="post-feed">
             {{ range $index, $element := .Pages }}
-                {{ if ne .Kind "page" }} 
+                {{/* if ne .Kind "page" */}} 
                     {{- partial "post-card.html" (dict "context" . "index" $index "home" $.IsHome) -}}
-                {{ end }}
+                {{/* end */}}
             {{ end }}
         </div>
     </div>

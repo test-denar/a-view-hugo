@@ -2,6 +2,9 @@
 type = "menu"
 title = "Guide Menu"
 hidden = true
+[_build]
+    render = "always"  # generate this file
+    list = "never"     # don't include it in section lists
 +++
 
 <p>   </p>
