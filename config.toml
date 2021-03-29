@@ -1,4 +1,4 @@
-baseurl         = "https://a-view.org/"
+baseurl         = ""
 title           = "Trips & Places"
 # theme           = "gohugo-theme-ananke"
 theme           = "hugo-casper3"
@@ -23,7 +23,6 @@ relativeURLs    = true
   authorAvatar = "img/ghost-icon.png"
   authorLocation = "Seattle, WA"
   authorWebsite = "https://lewislevin.com"
-  # authorDescription = "One of the riders"
   pageNotFoundTitle = "404 - Page not found"
 
 [taxonomies]
