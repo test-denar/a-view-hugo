@@ -1,6 +1,5 @@
-baseurl         = ""
+baseurl         = "https://test.a-view.org"
 title           = "Trips & Places"
-# theme           = "gohugo-theme-ananke"
 theme           = "hugo-casper3"
 languageCode    = "en-US"
 disqusShortname = "a-view"
