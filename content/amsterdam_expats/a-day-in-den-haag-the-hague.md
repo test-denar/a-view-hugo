@@ -20,7 +20,7 @@ With our daughter Susie, who is visiting for a week, we took a 50 minute train r
 
 2. **Madurodam** A huge miniature village which reminded us of legoland except the materials were realistic. A whole outside area was dedicated to Holland’s buildings, streets, canals, you name it… even Schipohl Airport in miniature.  Here Susie-the-giant towers over a lilliputian Rijksmuseume.
 
-[![Susie and a Model of The Rijksmuseum](/images/2014/03/IMG_2748-300x200.jpg)](/images/2014/03/IMG_2748.jpg)
+[![Susie and a Model of The Rijksmuseum](/images/2014/03/IMG_2748-300x200.jpg)](/images/2014/03/IMG_2748-1024x682.jpg)
 
 3. **Escher in Het Paleis** A museum which houses two floors of M.C. Escher’s works in Queen Emma's of the Netherlands former winter palace.
 

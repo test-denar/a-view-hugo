@@ -15,7 +15,7 @@ Maybe roughly in the order of the trip, but not guaranteed.
 
 Archie takes a break on the Going-to-the-Sun road: 
 
-![](/images/2017/09/archie-takes-a-break-1.jpg)
+![](/images/2017/09/archie-takes-a-break.jpg)
 
 Glacier National Park selfie:
 
