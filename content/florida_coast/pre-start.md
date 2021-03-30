@@ -17,7 +17,7 @@ Why? Because it's there.
 
 No, why?
 
-Well... ...I use this great app called FulGaz (feel the burn?) to ride around the world with high quality videos and the real terrain of the ride simulated by a Tacx Neo smart trainer. The company is located in Australia, though they have rides from around the world. The GPS trail of the virtual ride shows up in my ride history, like I really did it (I really did, didn't I?). So, you see that I have ridden the Adelaide Gorge many times.  It is really beautiful.  I thought let's do it _really_. Unfortunately, some logistical reality became real and we had to choose a warm US ride instead.
+Well... ...I use this great app called FulGaz (feel the burn?) to ride around the world with high quality videos and the real terrain of the ride simulated by a Tacx Neo smart trainer. FulGaz is located in Australia, though they have rides from around the world. The GPS trail of the virtual ride shows up in my ride history, like I really did it (I really did, didn't I?). So, you see that I have ridden the Adelaide Gorge many times.  It is really beautiful.  I thought let's do it _really_. Unfortunately, some logistical reality became real and we had to choose a warm US ride instead.
 
 This is it!
 
