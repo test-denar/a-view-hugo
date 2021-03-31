@@ -12,4 +12,4 @@ resources/_gen/**
 # other miscellaneous build and project directories
 .*/
 
-
+*.txt # information to me only

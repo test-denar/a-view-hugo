@@ -6,7 +6,7 @@ disqusShortname = "a-view"
 paginate        = 12
 SectionPagesMenu = "main"
 mainSections = ["post"]
-canonifyurls    = true
+canonifyurls    = false
 relativeURLs    = true
 
 [params]
