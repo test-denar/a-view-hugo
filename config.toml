@@ -1,4 +1,4 @@
-baseurl         = "https://test.a-view.org"
+baseurl         = "/"
 title           = "Trips & Places"
 theme           = "hugo-casper3"
 languageCode    = "en-US"
