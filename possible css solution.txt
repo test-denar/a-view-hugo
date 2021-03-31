@@ -1,0 +1,8 @@
+{{ $css := resources.Get "css/style.css" }}
+{{ $css_custom := resources.Get "css/custom.css" }}
+{{ $style := slice $css $css_custom | resources.Concat "css/style.css" | resources.Minify | resources.Fingerprint "sha512" }}
+<link rel="stylesheet"
+        type="text/css"
+        href="{{ $style.RelPermalink }}"
+        integrity="{{ $style.Data.Integrity }}" 
+        media='all' />
