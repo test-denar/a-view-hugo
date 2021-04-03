@@ -55,15 +55,13 @@ Emmy at a stop along the Erie Canal:
 
 ![](/images/2017/09/emmy-on-the-erie-canal.jpg)
 
- 
-
 The peloton during the penultimate stage on the way to Bucksport viewing the Penobscot Bridge:
 
 ![](/images/2017/09/Penobscot-bridge.jpg)
 
 This was a multi-modal trip. Here we are during the final stage taking the boat to Great Cranberry Island:
 
-![](images/2017/09/boat-to-great-cranberry.jpg)
+![](/images/2017/09/boat-to-great-cranberry.jpg)
 
 The Finish Line at Rice Point on Great Cranberry Island:
 
