@@ -4,13 +4,12 @@
     <meta charset="utf-8" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge" />
 
-    {{ $toptitle := .Site.Title }}
-    {{ if .IsPage }}
-        {{ $sectitle := (.Site.GetPage "section" .Section).Title }}
-        {{ $toptitle = $sectitle }}
-    {{ end}}
-    {{ $title := print .Title " | " $toptitle }}
-    {{ if .IsHome }}{{ $title = .Site.Title }}{{ end }}
+        {{ $toptitle := .Site.Title }}
+        {{ if .IsPage }}
+            {{ $toptitle = .CurrentSection.Title }}
+        {{ end}}
+        {{ $title := print .Title " | " $toptitle }}
+        {{ if .IsHome }}{{ $title = .Site.Title }}{{ end }}
     <title>{{ $title }}</title>
 
     <meta name="HandheldFriendly" content="True" />
