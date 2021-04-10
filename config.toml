@@ -37,7 +37,7 @@ relativeURLs    = true
 
 [[menu.main]]
    name = "|||"
-   url = "/more-trips"
+   url = "/guide-menu"
    weight = -100
 
 [markup]
