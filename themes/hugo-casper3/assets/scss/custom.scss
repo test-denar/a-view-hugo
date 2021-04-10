@@ -1,3 +1,8 @@
 .post-content > div {
     width: 100%;
 }
+
+/* force change in style sheet for testing at CloudFlare Pages */
+.bogus-class a {
+    font-size: xxx-large;
+}
