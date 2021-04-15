@@ -1,11 +1,9 @@
 +++
 author = "Emmy"
-categories = ["Amsterdam"]
 date = 2014-04-10T07:59:30Z
 description = ""
 draft = false
 slug = "restaurant-reviews"
-tags = ["Amsterdam"]
 title = "Restaurant Minireviews"
 +++
 

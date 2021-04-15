@@ -1,11 +1,9 @@
 +++
 author = "Lewis"
-categories = ["Bike Across America"]
 date = 2017-06-23T20:12:22Z
 description = ""
 draft = false
 slug = "glendive-mt"
-tags = ["Bike Across America"]
 title = "Glendive, MT"
 +++
 

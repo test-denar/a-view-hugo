@@ -1,11 +1,9 @@
 +++
 author = "Lewis"
-categories = ["Florida Coast"]
 date = 2019-01-10T15:55:00Z
 description = ""
 feature_image = "/images/2020/06/7-mile-bridge.jpg"
 slug = "pre-start"
-tags = ["Florida Coast"]
 title = "Pre Start"
 
 +++

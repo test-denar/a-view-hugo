@@ -1,11 +1,9 @@
 +++
 author = "Lewis"
-categories = ["Bike Across America"]
 date = 2017-06-15T04:30:00Z
 description = ""
 draft = false
 slug = "our-week-in-montana"
-tags = ["Bike Across America"]
 title = "Our Week In Montana"
 +++
 

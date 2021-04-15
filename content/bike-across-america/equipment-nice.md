@@ -1,11 +1,9 @@
 +++
 author = "Lewis"
-categories = ["Bike Across America"]
 date = 2017-09-07T14:39:42Z
 description = ""
 draft = false
 slug = "equipment-nice"
-tags = ["Bike Across America"]
 title = "Equipment #Nice"
 +++
 

@@ -1,11 +1,9 @@
 +++
 author = "Lewis"
-categories = ["Florida Coast"]
 date = 2019-02-01T17:24:00Z
 description = ""
 draft = false
 slug = "sun-soaked-way"
-tags = ["Florida Coast"]
 title = "Sun Soaked Way"
 +++
 

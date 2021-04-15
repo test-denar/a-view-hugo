@@ -1,11 +1,9 @@
 +++
 author = "Emmy"
-categories = ["Amsterdam"]
 date = 2014-05-10T20:34:00Z
 description = ""
 draft = false
 slug = "the-red-light-district"
-tags = ["Amsterdam"]
 title = "The Red Light District"
 +++
 

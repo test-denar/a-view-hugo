@@ -1,12 +1,10 @@
 +++
 author = "Lewis"
-categories = ["Florida Coast"]
 date = 2019-02-09T08:00:00Z
 description = ""
 draft = false
 feature_image = "/images/2020/06/airboat_l_and_e.png"
 slug = "the-everglades"
-tags = ["Florida Coast"]
 title = "The Everglades"
 +++
 

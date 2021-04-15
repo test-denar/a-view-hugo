@@ -1,11 +1,9 @@
 +++
 author = "Lewis"
-categories = ["Florida Coast"]
 date = 2019-01-28T17:34:00Z
 description = ""
 draft = false
 slug = "eat-the-local-catch"
-tags = ["Florida Coast"]
 title = "Eat the Local Catch"
 +++
 

@@ -1,11 +1,9 @@
 +++
 author = "Lewis"
-categories = ["Amsterdam"]
 date = 2014-03-19T17:35:59Z
 description = ""
 draft = false
 slug = "intro-to-biking-in-amsterdam"
-tags = ["Amsterdam"]
 title = "Intro to Biking in Amsterdam"
 +++
 

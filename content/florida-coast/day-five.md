@@ -1,11 +1,9 @@
 +++
 author = "Lewis"
-categories = ["Florida Coast"]
 date = 2019-01-27T16:39:00Z
 description = ""
 draft = false
 slug = "day-five"
-tags = ["Florida Coast"]
 title = "Day Five"
 +++
 

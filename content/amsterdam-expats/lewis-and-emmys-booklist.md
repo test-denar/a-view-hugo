@@ -1,11 +1,9 @@
 +++
 author = "Emmy"
-categories = ["Amsterdam"]
 date = 2014-03-28T18:50:25Z
 description = ""
 draft = false
 slug = "lewis-and-emmys-booklist"
-tags = ["Amsterdam"]
 feature_image = "/images/2014/03/IMG_2729-1920x550.jpg"
 title = "Lewis and Emmy's Booklist"
 +++

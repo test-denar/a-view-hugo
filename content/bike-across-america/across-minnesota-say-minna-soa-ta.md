@@ -1,10 +1,8 @@
 +++
 author = "Lewis"
-categories = ["Bike Across America"]
 date = 2017-07-16T01:07:42Z
 draft = false
 slug = "across-minnesota-say-minna-soa-ta"
-tags = ["Bike Across America"]
 title = "Across Minnesota (say \"Minna-soa'-ta\")"
 +++
 

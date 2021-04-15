@@ -1,11 +1,9 @@
 +++
 author = "Emmy"
-categories = ["RV Home"]
 date = 2016-12-05T19:48:48Z
 description = ""
 draft = false
 slug = "la-quinta-inn-pecos-texas"
-tags = ["RV Home"]
 title = "La Quinta Inn, Pecos Texas"
 +++
 

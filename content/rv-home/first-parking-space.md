@@ -1,11 +1,9 @@
 +++
 author = "Lewis"
-categories = ["RV Home"]
 date = 2016-11-30T17:31:19Z
 description = ""
 draft = false
 slug = "first-parking-space"
-tags = ["RV Home"]
 title = "First Parking Space"
 +++
 

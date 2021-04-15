@@ -1,12 +1,10 @@
 +++
 author = "Lewis"
-categories = ["Florida Coast"]
 date = 2019-02-05T17:30:00Z
 description = ""
 draft = false
 feature_image = "/images/2020/06/giant_lobster.jpg"
 slug = "key-largo"
-tags = ["Florida Coast"]
 title = "Key Largo"
 +++
 

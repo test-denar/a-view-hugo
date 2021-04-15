@@ -1,11 +1,9 @@
 +++
 author = "Lewis"
-categories = ["Florida Coast"]
 date = 2019-01-26T16:43:00Z
 description = ""
 draft = false
 slug = "time-to-catch-up-day-9"
-tags = ["Florida Coast"]
 title = "Time to Catch Up Day 9"
 +++
 

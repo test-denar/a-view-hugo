@@ -1,12 +1,10 @@
 +++
 author = "Lewis"
-categories = ["Florida Coast"]
 date = 2019-02-04T17:28:00Z
 description = ""
 feature_image = ""
 draft = false
 slug = "homestead"
-tags = ["Florida Coast"]
 title = "Homestead"
 +++
 

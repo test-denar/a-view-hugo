@@ -1,12 +1,10 @@
 +++
 author = "Lewis"
-categories = ["Florida Coast"]
 date = 2019-02-03T17:26:00Z
 description = ""
 draft = false
 feature_image = "/images/2020/06/fountainebleau.jpg"
 slug = "miami-and-the-fabulous-fountainebl"
-tags = ["Florida Coast"]
 title = "Miami and the Fabulous Fountainebleau"
 +++
 

@@ -1,8 +1,6 @@
 +++
 title = "Best Day"
 date = 2019-06-26
-categories = ["NE Streams"]
-tags = ["NE Streams"]
 author = "Lewis"
 feature_image = "/images/new_york.jpg"
 +++

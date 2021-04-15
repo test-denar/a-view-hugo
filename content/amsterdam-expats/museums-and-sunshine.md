@@ -1,12 +1,10 @@
 +++
 author = "Lewis"
-categories = ["Amsterdam"]
 date = 2014-03-28T19:53:24Z
 description = ""
 draft = false
 feature_image = "/images/2018/06/Ellie-Susie-Emmy-on-letters.jpg"
 slug = "museums-and-sunshine"
-tags = ["Amsterdam"]
 title = "Museums and sunshine..."
 +++
 

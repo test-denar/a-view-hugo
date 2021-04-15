@@ -1,11 +1,9 @@
 +++
 author = "Lewis"
-categories = ["RV Home"]
 date = 2016-12-09T17:34:35Z
 description = ""
 draft = false
 slug = "land-of-saguaro-cacti"
-tags = ["RV Home"]
 title = "Land of Saguaro Cacti"
 +++
 

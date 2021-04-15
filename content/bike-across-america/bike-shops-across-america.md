@@ -1,10 +1,8 @@
 +++
 author = "Lewis"
-categories = ["Bike Across America"]
 date = 2017-09-07T15:04:00Z
 draft = false
 slug = "bike-shops-across-america"
-tags = ["Bike Across America"]
 title = "Bike Shops Across America"
 +++
 

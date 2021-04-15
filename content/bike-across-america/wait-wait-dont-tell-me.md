@@ -1,11 +1,9 @@
 +++
 author = "Emmy"
-categories = ["Bike Across America"]
 date = 2017-06-23T19:22:26Z
 description = ""
 draft = false
 slug = "wait-wait-dont-tell-me"
-tags = ["Bike Across America"]
 title = "Wait, wait, don't tell me... no. 2"
 +++
 

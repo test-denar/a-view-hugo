@@ -1,12 +1,10 @@
 +++
 author = "Lewis"
-categories = ["Bike Across America"]
 date = 2017-06-03T23:07:36Z
 description = ""
 draft = false
 feature_image = "/images/2018/06/IMG_20170602_144151_1-2000x1200.jpg"
 slug = "week-1-report"
-tags = ["Bike Across America"]
 title = "Week 1 Report"
 +++
 

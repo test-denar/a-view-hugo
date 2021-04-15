@@ -1,11 +1,9 @@
 +++
 author = "Lewis"
-categories = ["RV Home"]
 date = 2016-12-03T22:38:35Z
 description = ""
 draft = false
 slug = "louisiana-eats"
-tags = ["RV Home"]
 title = "Louisiana Eats"
 +++
 

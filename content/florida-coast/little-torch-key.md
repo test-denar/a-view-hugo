@@ -1,12 +1,10 @@
 +++
 author = "Lewis"
-categories = ["Florida Coast"]
 date = 2019-02-07T17:40:00Z
 description = ""
 draft = false
 feature_image = "/images/2020/06/7_mile_selfie.jpg"
 slug = "little-torch-key"
-tags = ["Florida Coast"]
 title = "Little Torch Key"
 +++
 

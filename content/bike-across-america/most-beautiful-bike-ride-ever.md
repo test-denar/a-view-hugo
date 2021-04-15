@@ -1,11 +1,9 @@
 +++
 author = "Lewis"
-categories = ["Bike Across America"]
 date = 2017-06-15T03:22:02Z
 description = ""
 draft = false
 slug = "most-beautiful-bike-ride-ever"
-tags = ["Bike Across America"]
 title = "Most Beautiful Bike Ride Ever"
 +++
 

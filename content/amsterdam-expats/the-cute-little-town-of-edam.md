@@ -1,11 +1,9 @@
 +++
 author = "Emmy"
-categories = ["Amsterdam"]
 date = 2014-04-02T20:10:28Z
 description = ""
 draft = false
 slug = "the-cute-little-town-of-edam"
-tags = ["Amsterdam"]
 title = "The Cute Little Town of Edam"
 +++
 

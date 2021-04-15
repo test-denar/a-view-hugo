@@ -1,11 +1,9 @@
 +++
 author = "Emmy"
-categories = ["Amsterdam"]
 date = 2014-02-24T01:33:23Z
 description = ""
 draft = false
 slug = "packing-list"
-tags = ["Amsterdam"]
 title = "Packing List"
 +++
 

@@ -1,11 +1,9 @@
 +++
 author = "Emmy"
-categories = ["Amsterdam"]
 date = 2014-03-28T19:32:03Z
 description = ""
 draft = false
 slug = "the-land-of-a-thousand-wallys"
-tags = ["Amsterdam"]
 title = "The Land of a Thousand Wallys"
 +++
 

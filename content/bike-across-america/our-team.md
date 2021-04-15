@@ -1,11 +1,9 @@
 +++
 author = "Lewis"
-categories = ["Bike Across America"]
 date = 2017-05-28T04:22:00Z
 description = ""
 draft = false
 slug = "our-team"
-tags = ["Bike Across America"]
 title = "Our Team"
 +++
 

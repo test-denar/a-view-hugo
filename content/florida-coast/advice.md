@@ -1,10 +1,8 @@
 +++
 author = "Emmy"
-categories = ["Florida Coast"]
 date = 2019-02-18T08:00:00Z
 draft = false
 slug = "advice"
-tags = ["Florida Coast"]
 title = "Lessons Learned"
 +++
 

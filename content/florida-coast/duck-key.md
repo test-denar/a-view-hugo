@@ -1,12 +1,10 @@
 +++
 author = "Lewis"
-categories = ["Florida Coast"]
 date = 2019-02-06T17:38:00Z
 description = ""
 draft = false
 feature_image = "/images/2020/06/diving.jpg"
 slug = "duck-key"
-tags = ["Florida Coast"]
 title = "Duck Key"
 +++
 

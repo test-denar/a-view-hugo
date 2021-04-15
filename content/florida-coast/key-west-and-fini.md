@@ -1,12 +1,10 @@
 +++
 author = "Lewis"
-categories = ["Florida Coast"]
 date = 2019-02-08T08:00:00Z
 description = ""
 draft = false
 feature_image = "/images/2020/06/lionfish.jpg"
 slug = "key-west-and-fini"
-tags = ["Florida Coast"]
 title = "Key West and Fini"
 +++
 

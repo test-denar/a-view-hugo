@@ -1,12 +1,10 @@
 +++
 author = "Lewis"
-categories = ["Florida Coast"]
 date = 2019-01-23T08:00:00Z
 description = ""
 draft = false
 feature_image = "/images/2020/06/amelia-island-path.jpg"
 slug = "breezy-day-one"
-tags = ["Florida Coast"]
 title = "Breezy Day One"
 +++
 

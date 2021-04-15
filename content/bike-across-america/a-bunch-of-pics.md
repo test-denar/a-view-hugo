@@ -1,12 +1,10 @@
 +++
 author = "Lewis"
-categories = ["Bike Across America"]
 date = 2017-09-11T15:29:39Z
 description = ""
 draft = false
 feature_image = "/images/2018/06/finish-line.jpg"
 slug = "a-bunch-of-pics"
-tags = ["Bike Across America"]
 title = "A bunch of Pics"
 +++
 

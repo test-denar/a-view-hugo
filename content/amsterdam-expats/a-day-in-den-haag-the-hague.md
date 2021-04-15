@@ -1,11 +1,9 @@
 +++
 author = "Emmy"
-categories = ["Amsterdam"]
 date = 2014-03-27T10:15:53Z
 description = ""
 draft = false
 slug = "a-day-in-den-haag-the-hague"
-tags = ["Amsterdam"]
 title = "A Day in Den Haag (The Hague)"
 +++
 

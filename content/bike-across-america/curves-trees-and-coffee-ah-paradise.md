@@ -1,11 +1,9 @@
 +++
 author = "Lewis"
-categories = ["Bike Across America"]
 date = 2017-07-08T02:28:34Z
 description = ""
 draft = false
 slug = "curves-trees-and-coffee-ah-paradise"
-tags = ["Bike Across America"]
 title = "Curves, trees, and coffee    ...ah, paradise"
 +++
 

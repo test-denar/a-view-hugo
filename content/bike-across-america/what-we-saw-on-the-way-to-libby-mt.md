@@ -1,11 +1,9 @@
 +++
 author = "Lewis"
-categories = ["Bike Across America"]
 date = 2017-06-08T02:46:28Z
 description = ""
 draft = false
 slug = "what-we-saw-on-the-way-to-libby-mt"
-tags = ["Bike Across America"]
 title = "What we saw on the way to Libby, MT"
 +++
 

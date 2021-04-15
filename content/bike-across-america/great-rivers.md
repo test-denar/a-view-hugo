@@ -1,11 +1,9 @@
 +++
 author = "Lewis"
-categories = ["Bike Across America"]
 date = 2017-07-08T02:38:05Z
 description = ""
 draft = false
 slug = "great-rivers"
-tags = ["Bike Across America"]
 title = "Great Rivers"
 +++
 

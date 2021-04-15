@@ -1,12 +1,10 @@
 +++
 author = "Lewis"
-categories = ["Florida Coast"]
 date = 2019-02-02T17:22:00Z
 description = ""
 draft = false
 feature_image = "/images/2020/06/conf.png"
 slug = "doing-business"
-tags = ["Florida Coast"]
 title = "Doing Business"
 +++
 

@@ -1,12 +1,10 @@
 +++
 author = "Lewis"
-categories = ["Florida Coast"]
 date = 2019-01-24T16:14:00Z
 description = ""
 draft = false
 feature_image = "/images/2020/06/IMG_2553.JPG"
 slug = "day-two"
-tags = ["Florida Coast"]
 title = "Day Two"
 +++
 

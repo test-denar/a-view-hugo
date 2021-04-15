@@ -1,8 +1,6 @@
 +++
 title = "The Ride"
 date = 2019-06-17
-categories =["NE Streams"]
-tags = ["NE Streams"]
 author = "Lewis"
 feature_image =  "/images/The_Oxbow.jpg"
 +++

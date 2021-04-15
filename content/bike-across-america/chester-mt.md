@@ -1,11 +1,9 @@
 +++
 author = "Lewis"
-categories = ["Bike Across America"]
 date = 2017-06-23T18:11:00Z
 description = ""
 draft = false
 slug = "chester-mt"
-tags = ["Bike Across America"]
 title = "Chester, MT"
 +++
 

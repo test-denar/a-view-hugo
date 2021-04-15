@@ -1,10 +1,8 @@
 +++
 author = "Lewis"
-categories = ["Bike Across America"]
 date = 2017-06-15T04:10:00Z
 draft = false
 slug = "biking-while-scuba-diving"
-tags = ["Bike Across America"]
 title = "Biking while Scuba Diving"
 +++
 

@@ -1,11 +1,9 @@
 +++
 author = "Lewis"
-categories = ["Florida Coast"]
 date = 2019-01-27T17:20:00Z
 description = ""
 draft = false
 slug = "cousins"
-tags = ["Florida Coast"]
 title = "Cousins"
 +++
 

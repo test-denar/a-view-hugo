@@ -1,11 +1,9 @@
 +++
 author = "Lewis"
-categories = ["Amsterdam"]
 date = 2014-05-08T15:45:17Z
 description = ""
 draft = false
 slug = "patterns-of-urban-settlement"
-tags = ["Amsterdam"]
 title = "Patterns of Urban Settlement"
 +++
 

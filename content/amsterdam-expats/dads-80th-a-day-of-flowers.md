@@ -1,12 +1,10 @@
 +++
 author = "Emmy"
-categories = ["Amsterdam"]
 date = 2014-04-15T20:34:00Z
 description = ""
 draft = false
 feature_image = "/images/2018/06/2014-04-08-02.07.15.jpg"
 slug = "dads-80th-a-day-of-flowers"
-tags = ["Amsterdam"]
 title = "Dad's 80th: A Day of Flowers"
 +++
 

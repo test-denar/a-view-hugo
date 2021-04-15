@@ -1,11 +1,9 @@
 +++
 author = "Lewis"
-categories = ["Bike Across America"]
 date = 2017-06-23T18:20:00Z
 description = ""
 draft = false
 slug = "malta-mt"
-tags = ["Bike Across America"]
 title = "Malta, MT"
 +++
 

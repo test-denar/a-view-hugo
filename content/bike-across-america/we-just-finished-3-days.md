@@ -1,11 +1,9 @@
 +++
 author = "Lewis"
-categories = ["Bike Across America"]
 date = 2017-05-31T03:31:55Z
 description = ""
 draft = false
 slug = "we-just-finished-3-days"
-tags = ["Bike Across America"]
 title = "We just finished 3 days!"
 +++
 

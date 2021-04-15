@@ -1,11 +1,9 @@
 +++
 author = "Lewis"
-categories = ["Florida Coast"]
 date = 2019-01-30T17:01:00Z
 description = ""
 draft = false
 slug = "not-navy-seals"
-tags = ["Florida Coast"]
 title = "(Not) Navy Seals"
 +++
 

@@ -1,11 +1,9 @@
 +++
 author = "Lewis"
-categories = ["RV Home"]
 date = 2016-11-29T04:32:45Z
 description = ""
 draft = false
 slug = "nokomis"
-tags = ["RV Home"]
 title = "Arrival"
 +++
 

@@ -1,10 +1,8 @@
 +++
 author = "Lewis"
-categories = ["Bike Across America"]
 date = 2017-07-16T00:14:47Z
 draft = false
 slug = "across-north-dakota"
-tags = ["Bike Across America"]
 title = "Across North Dakota"
 +++
 

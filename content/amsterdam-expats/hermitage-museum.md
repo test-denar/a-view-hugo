@@ -1,12 +1,10 @@
 +++
 author = "Lewis"
-categories = ["Amsterdam"]
 date = 2014-03-31T19:09:46Z
 description = ""
 draft = false
 feature_image = "/images/2018/06/silk-road-camel-1.jpg"
 slug = "hermitage-museum"
-tags = ["Amsterdam"]
 title = "Hermitage Museum"
 +++
 

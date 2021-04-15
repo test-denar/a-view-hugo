@@ -1,11 +1,9 @@
 +++
 author = "Lewis"
-categories = ["Bike Across America"]
 date = 2017-06-23T19:45:35Z
 description = ""
 draft = false
 slug = "the-great-northern-plains"
-tags = ["Bike Across America"]
 title = "The Great Northern Plains"
 +++
 
