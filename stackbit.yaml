@@ -1,0 +1,217 @@
+stackbitVersion: ~0.3.0
+ssgName: hugo
+publishDir: public
+dataDir: data
+pagesDir: content
+assets:
+  referenceType: static
+  staticDir: static
+  uploadDir: assets
+  publicPath: /
+models:
+  page_1:
+    type: page
+    label: Page 1
+    match:
+      - amsterdam-expats/a-day-in-den-haag-the-hague.md
+      - amsterdam-expats/_index.md
+      - amsterdam-expats/dads-80th-a-day-of-flowers.md
+      - amsterdam-expats/dutch-cuisine.md
+      - amsterdam-expats/gezellig.md
+      - amsterdam-expats/helen-and-sally.md
+      - amsterdam-expats/hermitage-museum.md
+      - amsterdam-expats/hofjes-of-the-jordaan.md
+      - amsterdam-expats/intro-to-biking-in-amsterdam.md
+      - amsterdam-expats/lewis-and-emmys-booklist.md
+      - amsterdam-expats/more-biking-in-amsterdam.md
+      - amsterdam-expats/museums-and-sunshine.md
+      - amsterdam-expats/packing-list.md
+      - amsterdam-expats/patterns-of-urban-settlement.md
+      - amsterdam-expats/restaurant-reviews.md
+      - amsterdam-expats/restaurants-for-dinner.md
+      - amsterdam-expats/restaurants-for-lunch.md
+      - amsterdam-expats/the-cute-little-town-of-edam.md
+      - amsterdam-expats/the-land-of-a-thousand-wallys.md
+      - amsterdam-expats/the-red-light-district.md
+      - amsterdam-expats/amsterdam-ex-pats.md
+      - amsterdam-expats/arrival.md
+      - amsterdam-expats/cido-and-rob.md
+      - bike-across-america/_index.md
+      - bike-across-america/a-bunch-of-pics.md
+      - bike-across-america/across-minnesota-say-minna-soa-ta.md
+      - bike-across-america/across-north-dakota.md
+      - bike-across-america/bike-shops-across-america.md
+      - bike-across-america/biking-while-sailing.md
+      - bike-across-america/biking-while-scuba-diving.md
+      - bike-across-america/chester-mt.md
+      - bike-across-america/curves-trees-and-coffee-ah-paradise.md
+      - bike-across-america/day-3-summary.md
+      - bike-across-america/eat-local.md
+      - bike-across-america/en-famille.md
+      - bike-across-america/equipment-fail.md
+      - bike-across-america/equipment-nice.md
+      - bike-across-america/glendive-mt.md
+      - bike-across-america/great-rivers.md
+      - bike-across-america/malta-mt.md
+      - bike-across-america/most-beautiful-bike-ride-ever.md
+      - bike-across-america/our-team.md
+      - bike-across-america/our-week-in-montana.md
+      - bike-across-america/still-rolling.md
+      - bike-across-america/the-great-northern-plains.md
+      - bike-across-america/the-send-off.md
+      - bike-across-america/u-p-m.md
+      - bike-across-america/wait-wait-dont-tell-me-no-1.md
+      - bike-across-america/wait-wait-dont-tell-me.md
+      - bike-across-america/we-did-it.md
+      - bike-across-america/we-just-finished-3-days.md
+      - bike-across-america/week-1-report.md
+      - bike-across-america/were-doing-a-heck-of-a-job.md
+      - bike-across-america/were-off.md
+      - bike-across-america/what-we-saw-on-the-way-to-libby-mt.md
+      - bike-across-america/wow-we-are-more-than-34-done.md
+      - florida-coast/advice.md
+      - florida-coast/_index.md
+      - florida-coast/breezy-day-one.md
+      - florida-coast/cousins.md
+      - florida-coast/day-five.md
+      - florida-coast/day-four.md
+      - florida-coast/day-three.md
+      - florida-coast/day-two.md
+      - florida-coast/doing-business.md
+      - florida-coast/duck-key.md
+      - florida-coast/eat-the-local-catch.md
+      - florida-coast/homestead.md
+      - florida-coast/key-largo.md
+      - florida-coast/key-west-and-fini.md
+      - florida-coast/little-torch-key.md
+      - florida-coast/miami-and-the-fabulous-fountainebl.md
+      - florida-coast/not-navy-seals.md
+      - florida-coast/pre-start.md
+      - florida-coast/re-union-with-genie.md
+      - florida-coast/sun-soaked-way.md
+      - florida-coast/the-everglades.md
+      - florida-coast/time-to-catch-up-day-9.md
+      - new-england-streams/_index.md
+      - new-england-streams/best-day.md
+      - new-england-streams/the-ride.md
+      - rv-home/first-parking-space.md
+      - rv-home/gateway-to-nokomis.md
+      - rv-home/joni-in-eastland-tx.md
+      - rv-home/la-quinta-inn-pecos-texas.md
+      - rv-home/land-of-saguaro-cacti.md
+      - rv-home/las-cruces-eats.md
+      - rv-home/louisiana-eats.md
+      - rv-home/name-and-motto.md
+      - rv-home/nokomis.md
+      - rv-home/pick-up.md
+      - rv-home/we-got-the-puppy.md
+      - scotland/2012-07-07-castles.md
+      - scotland/2012-07-07-first-day-in-reykjavik.md
+      - scotland/2012-07-07-hot-day-in-iceland.md
+      - scotland/2012-07-07-iceland-and-scotland.md
+      - scotland/2012-07-07-isafjordur.md
+      - scotland/2012-07-07-islay-land-of-peat-and-whiskey.md
+      - scotland/2012-07-07-massacre-my-knee-at-glen-coe.md
+      - scotland/2012-07-07-snaefellsnesjokull-achoo.md
+      - scotland/2012-07-07-the-hop-to-glasgow.md
+      - scotland/2012-07-07-the-road-to-latrabjarg.md
+    fields:
+      - type: string
+        name: author
+        label: Author
+      - type: datetime
+        name: date
+        label: Date
+      - type: string
+        name: description
+        label: Description
+      - type: boolean
+        name: draft
+        label: Draft
+      - type: string
+        name: slug
+        label: Slug
+      - type: string
+        name: title
+        label: Title
+      - type: string
+        name: feature_image
+        label: Feature Image
+  page_2:
+    type: page
+    label: Page 2
+    match:
+      - author/_index.md
+      - israel/_index.md
+      - mini-trips/_index.md
+      - mini-trips/oakland-to-seattle.md
+      - rv-home/_index.md
+    fields:
+      - type: string
+        name: title
+        label: Title
+      - type: string
+        name: description
+        label: Description
+      - type: image
+        name: feature_image
+        label: Feature Image
+      - type: string
+        name: author
+        label: Author
+  page_3:
+    type: page
+    label: Page 3
+    match:
+      - author/emmy/_index.md
+      - author/lewis/_index.md
+      - scotland/_index.md
+    fields:
+      - type: string
+        name: title
+        label: Title
+      - type: image
+        name: feature_image
+        label: Feature Image
+      - type: image
+        name: author_image
+        label: Author Image
+  page_4:
+    type: page
+    label: Page 4
+    match: '*'
+    exclude:
+      - guide-menu.md
+    fields:
+      - type: datetime
+        name: date
+        label: Date
+      - type: string
+        name: description
+        label: Description
+  page_5:
+    type: page
+    label: Page 5
+    match: '*'
+    exclude:
+      - _index.md
+    fields:
+      - type: string
+        name: type
+        label: Type
+      - type: string
+        name: title
+        label: Title
+      - type: boolean
+        name: hidden
+        label: Hidden
+      - type: object
+        name: _build
+        label: Build
+        fields:
+          - type: string
+            name: render
+            label: Render
+          - type: string
+            name: list
+            label: List
